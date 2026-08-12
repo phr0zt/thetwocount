@@ -1,8 +1,28 @@
+<div align="right">
+
 **[English](README.md)** | **[Français](README.fr.md)**
 
-# Le Compte de Deux
+</div>
+
+<div align="center">
+
+<img src="promo/cover-held-mockup.png" alt="Le Compte de Deux — couverture" width="440">
+
+# LE COMPTE DE DEUX
 
 ### La Règle Cachée Derrière Chaque Système Conçu pour Tuer l'Ego — et le Seul Ego Qu'il Ne Touche Jamais
+
+[![Lire l'EPUB](https://img.shields.io/badge/lire-EPUB-orange?style=for-the-badge)](The-Two-Count.fr.epub)
+[![Lire le PDF](https://img.shields.io/badge/lire-PDF-orange?style=for-the-badge)](The-Two-Count.fr.pdf)
+[![Read in English](https://img.shields.io/badge/read-in%20english-1f3a5c?style=for-the-badge)](README.md)
+
+**7 chapitres · environ 28 000 mots · construit à partir de Phil Jackson, Karl Friston et Ray Dalio**
+
+</div>
+
+---
+
+> *Toute technologie de dissolution de l'ego dans ce livre applique le compte de deux à tout le monde sauf à son propre concepteur. La prochaine que vous construirez devrait vous l'appliquer aussi.*
 
 Tout système jamais conçu pour forcer quelqu'un d'autre à abandonner son ego fonctionne selon le même mécanisme à deux variables : la quantité de certitude qu'il retire, et la croyance précise à laquelle il la retire. Et chacun de ces systèmes, sans exception, exempte une seule croyance de ce mécanisme — le jugement fondateur de son concepteur sur ce que le système doit protéger.
 

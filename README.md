@@ -1,8 +1,28 @@
+<div align="right">
+
 **[English](README.md)** | **[Français](README.fr.md)**
 
-# The Two-Count
+</div>
+
+<div align="center">
+
+<img src="promo/cover-held-mockup.png" alt="The Two-Count — cover, held" width="440">
+
+# THE TWO-COUNT
 
 ### The Hidden Rule Behind Every System Built to Kill the Ego — and the One Ego It Never Touches
+
+[![Read the EPUB](https://img.shields.io/badge/read-EPUB-orange?style=for-the-badge)](The-Two-Count.epub)
+[![Read the PDF](https://img.shields.io/badge/read-PDF-orange?style=for-the-badge)](The-Two-Count.pdf)
+[![Lire en français](https://img.shields.io/badge/lire-en%20fran%C3%A7ais-1f3a5c?style=for-the-badge)](README.fr.md)
+
+**7 chapters · ~23,700 words · built from Phil Jackson, Karl Friston, and Ray Dalio**
+
+</div>
+
+---
+
+> *Every ego-dissolution technology in this book runs a two-count on everyone but its own designer. The next one you build should run it on you too.*
 
 Every system ever built to make someone else surrender their ego works by the same two-variable mechanism: how much certainty it strips away, and which specific belief it strips it from. And every one of those systems, without exception, exempts exactly one belief from the mechanism — the builder's own founding judgment about what the system should protect.
 
