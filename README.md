@@ -1,3 +1,5 @@
+**[English](README.md)** | **[Français](README.fr.md)**
+
 # The Two-Count
 
 ### The Hidden Rule Behind Every System Built to Kill the Ego — and the One Ego It Never Touches
@@ -20,11 +22,11 @@ Drawing on Phil Jackson's triangle offense, Karl Friston's free energy principle
 
 ## In this repository
 
-- `chapter-1.md` through `chapter-7.md` — the manuscript
-- `The-Two-Count.epub` — the built e-book
-- `research/` — the dossiers, mental-model extractions, lens syntheses, and staged dialogue the book was built from
-- `epub-build/` — ASCII-cleaned chapter sources and the EPUB build assets (title page, metadata, CSS)
-- `fr/` — French translation
+- `The-Two-Count.epub` — the built e-book (English)
+- `The-Two-Count.fr.epub` — the built e-book (French)
+- `README.md` / `README.fr.md` — this file, in English and French
+- `en/` — English manuscript (`chapter-1.md` through `chapter-7.md`), `research/` (dossiers, mental-model extractions, lens syntheses, staged dialogue), and `epub-build/` (ASCII-cleaned chapter sources and EPUB build assets)
+- `fr/` — French translation, same structure: chapters, `research/`, `epub-build/`
 
 ## Built from the public work of
 
