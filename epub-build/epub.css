@@ -1,0 +1,71 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.6;
+  text-align: justify;
+  margin: 1em 1.2em;
+  orphans: 2;
+  widows: 2;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.6em;
+  text-align: left;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  page-break-before: always;
+  break-before: page;
+}
+
+h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.2em;
+  text-align: left;
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-size: 1.05em;
+  text-align: left;
+  margin-top: 1.3em;
+  margin-bottom: 0.4em;
+}
+
+p {
+  margin: 0 0 0.9em 0;
+  text-indent: 0;
+}
+
+h1 + p, h2 + p, h3 + p {
+  text-indent: 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #999;
+  width: 40%;
+  margin: 1.6em auto;
+}
+
+blockquote {
+  margin: 1em 1.5em;
+  font-style: italic;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+nav#toc ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+nav#toc li {
+  margin: 0.5em 0;
+}
