@@ -22,10 +22,11 @@ Traduction française du livre original en anglais *The Two-Count*.
 
 ## Dans ce dépôt
 
-- `The-Two-Count.epub` — le livre numérique (anglais)
-- `The-Two-Count.fr.epub` — le livre numérique (français)
+- `The-Two-Count.epub` / `The-Two-Count.pdf` — le livre numérique et le PDF (anglais)
+- `The-Two-Count.fr.epub` / `The-Two-Count.fr.pdf` — le livre numérique et le PDF (français)
+- `cover.png` — l'illustration de couverture, intégrée dans les deux EPUB et les deux PDF
 - `README.md` / `README.fr.md` — ce fichier, en anglais et en français
-- `en/` — manuscrit original en anglais, `research/` (dossiers, extraction des modèles mentaux, synthèses, dialogue mis en scène) et `epub-build/` (fichiers nettoyés et matériel de compilation de l'EPUB)
+- `en/` — manuscrit original en anglais, `research/` (dossiers, extraction des modèles mentaux, synthèses, dialogue mis en scène) et `epub-build/` (fichiers nettoyés et matériel de compilation de l'EPUB et du PDF)
 - `fr/` — traduction française, même structure : chapitres, `research/`, `epub-build/`
 
 ## Construit à partir des travaux publics de

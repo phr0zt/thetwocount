@@ -1,0 +1,16 @@
+@page {
+  margin: 2.2cm 2.4cm;
+}
+
+.cover-page {
+  text-align: center;
+  page-break-after: always;
+}
+
+.cover-page img {
+  width: 100%;
+  max-width: 14cm;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}

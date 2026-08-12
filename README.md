@@ -22,10 +22,11 @@ Drawing on Phil Jackson's triangle offense, Karl Friston's free energy principle
 
 ## In this repository
 
-- `The-Two-Count.epub` — the built e-book (English)
-- `The-Two-Count.fr.epub` — the built e-book (French)
+- `The-Two-Count.epub` / `The-Two-Count.pdf` — the built e-book and PDF (English)
+- `The-Two-Count.fr.epub` / `The-Two-Count.fr.pdf` — the built e-book and PDF (French)
+- `cover.png` — the cover artwork, embedded in both EPUBs and both PDFs
 - `README.md` / `README.fr.md` — this file, in English and French
-- `en/` — English manuscript (`chapter-1.md` through `chapter-7.md`), `research/` (dossiers, mental-model extractions, lens syntheses, staged dialogue), and `epub-build/` (ASCII-cleaned chapter sources and EPUB build assets)
+- `en/` — English manuscript (`chapter-1.md` through `chapter-7.md`), `research/` (dossiers, mental-model extractions, lens syntheses, staged dialogue), and `epub-build/` (ASCII-cleaned chapter sources and EPUB/PDF build assets)
 - `fr/` — French translation, same structure: chapters, `research/`, `epub-build/`
 
 ## Built from the public work of
